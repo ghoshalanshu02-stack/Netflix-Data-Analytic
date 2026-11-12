@@ -63,3 +63,7 @@ Learning Outcomes
 - SQL querying and database management
 - Dashboard development
 - Data visualization and business insights
+
+## Dashboard Preview
+
+![Netflix Power BI Dashboard](Screenshot%202026-11-12%20185229.png)
