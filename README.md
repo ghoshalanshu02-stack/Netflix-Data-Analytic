@@ -66,5 +66,4 @@ Learning Outcomes
 
  ## Dashboard Preview
 
-![Netflix Power BI Dashboard]
-(Screenshot%202026-11-12%20185229.png)
+![Netflix Power BI Dashboard](Screenshot%202026-11-12%20185229.png)
