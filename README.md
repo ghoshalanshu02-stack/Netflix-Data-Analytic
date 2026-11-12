@@ -64,6 +64,7 @@ Learning Outcomes
 - Dashboard development
 - Data visualization and business insights
 
-- ## Dashboard Preview
+ ## Dashboard Preview
 
-![Netflix Power BI Dashboard](Screenshot%202026-11-12%20185229.png)
+![Netflix Power BI Dashboard]
+(Screenshot%202026-11-12%20185229.png)
